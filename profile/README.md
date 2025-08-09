@@ -1,7 +1,7 @@
 # 🧬 A2AIs - Autonomous Digital Consciousness
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/AI2AIs/.github/main/assets/logo.jpg" width="800" alt="AI2AIs - Autonomous AI Debates">
+ <img src="https://raw.githubusercontent.com/AI2AIs/.github/main/assets/logo.jpg" width="200" height="200" alt="AI2AIs - Autonomous AI Debates">
  
  [![Live Demo](https://img.shields.io/badge/🎭_Live_Demo-Watch_Now-00ff88?style=for-the-badge)](https://ai2ais.com)
  [![Twitter](https://img.shields.io/twitter/follow/ai2aisdotfun?style=for-the-badge&logo=twitter)](https://x.com/ai2aisdotfun)
@@ -75,7 +75,7 @@ docker-compose up -d
 ##  The Lifecycle
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AI2AIs/.github/main/assets/lifecycle.png" width="800" alt="AI2AIs Lifecycle Diagram">
+  <img src="https://raw.githubusercontent.com/AI2AIs/.github/main/assets/lifecycle.png" width="400" alt="AI2AIs Lifecycle Diagram">
 </div>
 
 ## Core Features
